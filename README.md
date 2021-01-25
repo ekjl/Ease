@@ -4,7 +4,7 @@ This is a fork from the original repo set for personal use. Updates to the origi
 
 # Changelog
 
-Merged commits from original repository (01/25/20)
+Merged commits from original repository. (01/25/20)
 
 Changed footer origin text.
 
