@@ -4,9 +4,11 @@ This is a fork from the original repo set for personal use. Updates to the origi
 
 # Changelog
 
-Merged commits from original repository. (Mostly just updates to depencencies) (02/16/20)
+Updated repo to ensure proper compatibility to new major Ghost version 4.0 (03/22/21)
 
-Merged commits from original repository. (01/25/20)
+Merged commits from original repository. (Mostly just updates to depencencies) (02/16/21)
+
+Merged commits from original repository. (01/25/21)
 
 Changed footer origin text.
 
